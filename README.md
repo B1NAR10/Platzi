@@ -1,3 +1,3 @@
 # Platzi
 
-Apuntamentos dos Curso de Platzi que vou tomando.
+Aquí Subirei os Apuntamentos e os Exercicios dos Cursos que vou Facendo en Platzi.
